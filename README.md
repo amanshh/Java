@@ -1,2 +1,3 @@
 # Java
-Learniing in Java Programming with DSA Foundation
+Decode Java+DSA
+learn java to learn DSA.
