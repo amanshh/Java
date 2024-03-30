@@ -14,6 +14,7 @@ public class TYPECASTING {
 //        int x = sc.nextInt();
 //        double y = (double)x;
 //        System.out.println(y/2);
+//sout
 
         double y = sc.nextDouble();
         int x = (int)y;
