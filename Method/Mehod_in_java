@@ -1,0 +1,26 @@
+package Method;
+
+public class Methods_in_java {
+    public static void main(String[] args) {
+//        Objects --> Has-part(state/properties) and Does-part(fields/variables)
+// 1--> a method is like a function, aia s block of code or collection of statements grouped together to perform a certain
+//        or operation.Rhe differences is that a method is associated with an object, while a function is not.
+//        2--> In  java,methods arw used to implement the behavior of the object.
+//        3--> A method must always be declared within a class.
+//        4--> A method can directly access all the instance variables  of the enclosing class.
+
+//        syntax of Method
+//        modifiers return_type method_name(parameter)exception_list
+//        {
+//            // body of the method
+//        }
+
+//        Method declarations have six components, in order:
+//  1-->Modifiers--->
+//  2-->The return type-->
+//  3-->The method name-->
+//  4-->The parameter list in parenthesis -->
+//   5--> An exception list -->
+//  6-->The method body, enclosed betwwen braces-->
+    }
+}
